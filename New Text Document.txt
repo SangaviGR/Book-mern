@@ -1,0 +1,23 @@
+PS D:\React Learn\Book\mern-server> npm init -y
+npm install express cors mongodb nodemon mongoose
+
+npm install dotenv
+
+//package.json
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  }
+
+
+
+PS D:\React Learn\Book\mern_> npm install @mui/material @emotion/react @emotion/styled @mui/icons-material axios
+
+PS D:\React Learn\Book\mern_> npm install cors
+PS D:\React Learn\Book\mern_> npm install react-router-dom
+
+package.json
+{
+  "name": "mern",
+  "version": "0.1.0",
+  "proxy":"http://localhost:3000",
